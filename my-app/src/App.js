@@ -4,16 +4,22 @@ function App() {
   return (
     <>
       <section>
-        <div>1</div>
-        <div>2</div>
-        <div>3</div>
-        <div>4</div>
+        Grid
+        <ul>
+          <li>1</li>
+          <li>2</li>
+          <li>3</li>
+          <li>4</li>
+        </ul>
       </section>
-      <section>
-        <div>5</div>
-        <div>6</div>
-        <div>7</div>
-        <div>8</div>
+      <section className="inlineGrid">
+        Inline Grid
+        <ul>
+          <li>5</li>
+          <li>6</li>
+          <li>7</li>
+          <li>8</li>
+        </ul>
       </section>
     </>
   );
