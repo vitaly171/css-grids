@@ -24,6 +24,7 @@ function App() {
         </ul>
       </section>
       <section>
+        <p>Columns Grid</p>
         <ul className="columnsGrid">
           <li>9</li>
           <li>10</li>
@@ -34,6 +35,7 @@ function App() {
         </ul>
       </section>
       <section>
+        <p>Rows Grid</p>
         <ul className="rowsGrid">
           <li>15</li>
           <li>16</li>
@@ -44,6 +46,7 @@ function App() {
         </ul>
       </section>
       <section>
+        <p>Sretch Grid</p>
         <ul className="stretch">
           <li>21</li>
           <li>22</li>

@@ -3,6 +3,13 @@ body {
 }
 ul {
   padding: 0px;
+  font-weight: 700;
+}
+
+p {
+  display: flex;
+  justify-content: center;
+  font-weight: 700;
 }
 
 li {
